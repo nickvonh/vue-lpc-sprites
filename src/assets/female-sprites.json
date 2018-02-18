@@ -1,0 +1,317 @@
+{
+    "accessories": {
+        "index": 2,
+        "files": [
+            "capeclip_black.png",
+            "capeclip_blue.png",
+            "capeclip_brown.png",
+            "capeclip_gray.png",
+            "capeclip_green.png",
+            "capeclip_lavender.png",
+            "capeclip_maroon.png",
+            "capeclip_pink.png",
+            "capeclip_red.png",
+            "capeclip_white.png",
+            "capeclip_yellow.png",
+            "capetie_black.png",
+            "capetie_blue.png",
+            "capetie_brown.png",
+            "capetie_gray.png",
+            "capetie_green.png",
+            "capetie_lavender.png",
+            "capetie_maroon.png",
+            "capetie_pink.png",
+            "capetie_red.png",
+            "capetie_white.png",
+            "capetie_yellow.png"
+        ]
+    },
+    "behind-body": {
+        "index": -1,
+        "files" : [
+            "cape_black.png",
+            "cape_blue.png",
+            "cape_brown.png",
+            "cape_gray.png",
+            "cape_green.png",
+            "cape_lavender.png",
+            "cape_maroon.png",
+            "cape_pink.png",
+            "cape_red.png",
+            "cape_white.png",
+            "cape_yellow.png",
+            "quiver.png",
+            "tattercape_black.png",
+            "tattercape_blue.png",
+            "tattercape_brown.png",
+            "tattercape_gray.png",
+            "tattercape_green.png",
+            "tattercape_lavender.png",
+            "tattercape_maroon.png",
+            "tattercape_pink.png",
+            "tattercape_red.png",
+            "tattercape_white.png",
+            "tattercape_yellow.png"
+        ]
+    },
+    "belt": {
+        "index": 2,
+        "files":[
+            "leather_female.png",
+            "teal2_cloth_female.png",
+            "white_cloth_female.png"
+        ]
+    },
+    "body": {
+        "index": 0,
+        "files":[
+            "dark.png",
+            "dark2.png",
+            "darkelf.png",
+            "darkelf2.png",
+            "light.png",
+            "orc.png",
+            "red_orc.png",
+            "tanned.png",
+            "tanned2.png"
+        ]
+    },
+    "cape": {
+        "index":2,
+        "files":[
+            "cape_black.png",
+            "cape_blue.png",
+            "cape_brown.png",
+            "cape_gray.png",
+            "cape_green.png",
+            "cape_lavender.png",
+            "cape_maroon.png",
+            "cape_pink.png",
+            "cape_red.png",
+            "cape_white.png",
+            "cape_yellow.png",
+            "tattercape_black.png",
+            "tattercape_blue.png",
+            "tattercape_brown.png",
+            "tattercape_gray.png",
+            "tattercape_green.png",
+            "tattercape_maroon.png",
+            "tattercape_pink.png",
+            "tattercape_red.png",
+            "tattercape_white.png",
+            "tattercape_yellow.png",
+            "trimcape_whiteblue.png"
+        ]
+    },
+    "ears": {
+        "index":0,
+        "files":[
+            "bigears_dark.png",
+            "bigears_dark2.png",
+            "bigears_darkelf.png",
+            "bigears_darkelf2.png",
+            "bigears_light.png",
+            "bigears_tanned.png",
+            "bigears_tanned2.png",
+            "elvenears_dark.png",
+            "elvenears_dark2.png",
+            "elvenears_darkelf.png",
+            "elvenears_darkelf2.png",
+            "elvenears_light.png",
+            "elvenears_tanned.png",
+            "elvenears_tanned2.png"
+        ]
+    },
+    "feet": {
+        "index":1,
+        "files":[
+            "black_shoes_female.png",
+            "black_slippers.png",
+            "brown_longboots_female.png",
+            "brown_shoes_female.png",
+            "brown_slippers.png",
+            "golden_boots_female.png",
+            "gray_slippers.png",
+            "maroon_longboots_female.png",
+            "maroon_shoes_female.png",
+            "metal_boots_female.png",
+            "white_slippers.png"
+        ]
+    },
+    "hair":{
+        "index" : 1,
+        "files":[
+            "bangs.png",
+            "bangslong.png",
+            "bangslong2.png",
+            "bangsshort.png",
+            "bedhead.png",
+            "bunches.png",
+            "jewfro.png",
+            "long.png",
+            "longhawk.png",
+            "longknot.png",
+            "loose.png",
+            "messy1.png",
+            "messy2.png",
+            "mohawk.png",
+            "page.png",
+            "page2.png",
+            "parted.png",
+            "pixie.png",
+            "plain.png",
+            "ponytail.png",
+            "ponytail2.png",
+            "princess.png",
+            "shorthawk.png",
+            "shortknot.png",
+            "shoulderl.png",
+            "shoulderr.png",
+            "swoop.png",
+            "unkempt.png",
+            "xlong.png",
+            "xlongknot.png"
+        ]
+    },
+    "hands": {
+        "index":1,
+        "files":[ 
+            "cloth_bracers_female.png",
+            "golden_gloves_female.png",
+            "leather_bracers_female.png",
+            "metal_gloves_female.png",
+            "white_cloth_bandages.png",
+            "white_cloth_bracers.png"
+        ]
+    },
+    "head": {
+        "index": 2,
+        "files": [ 
+            "bronze_tiara.png",
+            "chain_hood_female.png",
+            "chainhat_female.png",
+            "cloth_hood_female.png",
+            "gold_tiara.png",
+            "golden_helm_female.png",
+            "iron_tiara.png",
+            "leather_cap_female.png",
+            "metal_helm_female.png",
+            "purple_tiara.png",
+            "red_bandana.png",
+            "silver_tiara.png"
+        ]
+    },
+    "legs": {
+        "index":1,
+        "files":[ 
+            "golden_greaves_female.png",
+            "magenta_pants_female.png",
+            "metal_pants_female.png",
+            "red_pants_female.png",
+            "robe_skirt_female_incomplete.png",
+            "teal_pants_female.png",
+            "white_pants_female.png" 
+        ]
+    },
+    "nose": {
+        "index": 0,
+        "files":[ 
+            "bignose_dark.png",
+            "bignose_dark2.png",
+            "bignose_darkelf.png",
+            "bignose_darkelf2.png",
+            "bignose_light.png",
+            "bignose_tanned.png",
+            "bignose_tanned2.png",
+            "buttonnose_dark.png",
+            "buttonnose_dark2.png",
+            "buttonnose_darkelf.png",
+            "buttonnose_darkelf2.png",
+            "buttonnose_light.png",
+            "buttonnose_tanned.png",
+            "buttonnose_tanned2.png",
+            "straightnose_dark.png",
+            "straightnose_dark2.png",
+            "straightnose_darkelf.png",
+            "straightnose_darkelf2.png",
+            "straightnose_light.png",
+            "straightnose_tanned.png",
+            "straightnose_tanned2.png"
+        ]
+    },
+    "shoulders": {
+        "index": 2,
+        "files": [
+            "leather_shoulders_female.png"
+        ]
+    },
+    "torso": {
+        "index" : 1,
+        "files" : [
+            "blue_vest.png",
+            "brown_pirate.png",
+            "brown_sleeveless.png",
+            "brown_tunic.png",
+            "corset_black.png",
+            "corset_brown.png",
+            "corset_red.png",
+            "dress_w_sash_female.png",
+            "gold_arms_female.png",
+            "gold_chest_female.png",
+            "jacket_female.png",
+            "leather_chest_female.png",
+            "mail_female.png",
+            "maroon_pirate.png",
+            "maroon_sleeveless.png",
+            "maroon_tunic.png",
+            "overskirt.png",
+            "plate_arms_female.png",
+            "plate_chest_female.png",
+            "teal_pirate.png",
+            "teal_sleeveless.png",
+            "teal_tunic.png",
+            "tightdress_black.png",
+            "tightdress_lightblue.png",
+            "tightdress_red.png",
+            "tightdress_white.png",
+            "underdress.png",
+            "white_pirate.png",
+            "white_sleeveless.png",
+            "white_tunic.png"
+        ]
+    },
+    "weapons" : {
+        "index": 1,
+        "two-hand" : [
+            "spear.png"
+        ],
+        "left-hand" : [
+            "arrow_skeleton.png",
+            "arrow.png"
+        ],
+        "right-hand" : [
+            "bow.png",
+            "bow_skeleton.png",
+            "dagger_female.png",
+            "greatbow.png",
+            "recurvebow.png",
+            "spear_female.png",
+            "steelwand_female.png",
+            "woodwand_female.png" 
+        ]
+    },
+    "weapon-oversize" : {
+        "index": 1,
+        "two-hand" : [ 
+            "dragonspear.png",
+            "spear.png",
+            "trident.png"
+        ],
+        "right-hand" : [
+            "longsword_female.png",
+            "mace_female.png",
+            "rapier_female.png",
+            "saber_female.png"
+        ]
+    }
+}
